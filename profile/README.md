@@ -1,4 +1,4 @@
-## Hello there, welcome to Eklow Softwares 👋
+## Hello there, welcome to Eklow 👋
 
 **Eklow** is a software development company.<br>
 Our vision and goal is to reshape the world we live in to a better place, <br> through constructing elegant hierarchies for maximum code resue and extensibility.<br><br>
